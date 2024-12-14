@@ -12,6 +12,8 @@ This project is a **reverse shell malware** written in **C**, developed as part 
    - Redirects the victim’s terminal (`cmd.exe`) to the created socket.
 3. **The attacker gains full remote control** of the victim’s machine.
 
+## 🚨‼️ THIS WAS MADE FOR EDUCATIONAL PURPOSES
+
 ---
 
 ## 🛠️ Requirements
