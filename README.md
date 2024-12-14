@@ -77,3 +77,7 @@ This project is a **reverse shell malware** written in **C**, developed as part 
 - Develop advanced methods to bypass:
   - **Firewalls**: Use techniques like packet fragmentation or tunneling.
   - **Antivirus Detection**: Implement techniques such as obfuscation, polymorphic code, or process injection.
+
+---
+
+🚨 ### That's only a code demonstration of the Malware, I'm not respondible for any misuse of the code and the malware.
