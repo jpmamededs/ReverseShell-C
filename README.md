@@ -31,7 +31,8 @@ This project is a **reverse shell malware** written in **C**, developed as part 
 ## 📋 Step-by-Step Instructions
 
 ### 1. Set Up the Listener on the Attacker's Server
-1.1. Compile and launch the `server` code: `./server`
+1.1. Compile and launch the server code: `./server`
+
 1.2. Wait for incoming connections from the malware.
 
 ### 2. Execute the Malware on the Victim’s Machine
