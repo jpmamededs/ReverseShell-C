@@ -4,6 +4,16 @@ This project is a **reverse shell malware** written in **C**, developed as part 
 
 ---
 
+<details>
+  <summary>✅ Updates:</summary>
+<br>
+   
+**(04/01/2025)** - Now it bypasses Windows Defender.
+
+</details>
+
+---
+
 ## 🚀 How It Works
 
 1. **The attacker starts a listener** on the server to wait for connections.
