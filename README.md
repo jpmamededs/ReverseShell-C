@@ -35,6 +35,7 @@ This project is a **reverse shell malware** written in **C**, developed as part 
 
 ### 2. Tools Needed on the Server
 - **Netcat** (or alternatives like Socat) to create the listener.
+- **Linux**
 
 ---
 
